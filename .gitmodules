@@ -1,3 +1,6 @@
 [submodule "jpir_new"]
 	path = jpir_new
 	url = https://github.com/yaraNajjar/jpir_new.git
+[submodule "pir-react-front"]
+	path = pir-react-front
+	url = https://github.com/yaraNajjar/pir-react-front.git
