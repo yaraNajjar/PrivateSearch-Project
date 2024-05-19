@@ -1,0 +1,3 @@
+[submodule "jpir_new"]
+	path = jpir_new
+	url = https://github.com/yaraNajjar/jpir_new.git
