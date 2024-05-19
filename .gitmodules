@@ -4,3 +4,6 @@
 [submodule "pir-react-front"]
 	path = pir-react-front
 	url = https://github.com/yaraNajjar/pir-react-front.git
+[submodule "PIR-project"]
+	path = PIR-project
+	url = https://github.com/yaraNajjar/PIR-project.git
